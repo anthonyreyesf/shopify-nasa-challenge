@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopify-nasa-challenge-build/static/css/main.395d3daa.chunk.css",
+    "main.js": "/shopify-nasa-challenge-build/static/js/main.57c5e879.chunk.js",
+    "main.js.map": "/shopify-nasa-challenge-build/static/js/main.57c5e879.chunk.js.map",
+    "runtime-main.js": "/shopify-nasa-challenge-build/static/js/runtime-main.612662f9.js",
+    "runtime-main.js.map": "/shopify-nasa-challenge-build/static/js/runtime-main.612662f9.js.map",
+    "static/js/2.dff233f2.chunk.js": "/shopify-nasa-challenge-build/static/js/2.dff233f2.chunk.js",
+    "static/js/2.dff233f2.chunk.js.map": "/shopify-nasa-challenge-build/static/js/2.dff233f2.chunk.js.map",
+    "static/js/3.1062b98c.chunk.js": "/shopify-nasa-challenge-build/static/js/3.1062b98c.chunk.js",
+    "static/js/3.1062b98c.chunk.js.map": "/shopify-nasa-challenge-build/static/js/3.1062b98c.chunk.js.map",
+    "index.html": "/shopify-nasa-challenge-build/index.html",
+    "static/css/main.395d3daa.chunk.css.map": "/shopify-nasa-challenge-build/static/css/main.395d3daa.chunk.css.map",
+    "static/js/2.dff233f2.chunk.js.LICENSE.txt": "/shopify-nasa-challenge-build/static/js/2.dff233f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.612662f9.js",
+    "static/js/2.dff233f2.chunk.js",
+    "static/css/main.395d3daa.chunk.css",
+    "static/js/main.57c5e879.chunk.js"
+  ]
+}
