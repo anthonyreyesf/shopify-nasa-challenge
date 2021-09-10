@@ -1,0 +1,17 @@
+.Card {
+  background: #ffffff;
+  width: 45%;
+  border-radius: 8px;
+  margin: 0 auto 15px;
+}
+
+img {
+  max-width: 100%;
+  min-width: 100%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.info {
+  padding: 20px 30px;
+}
