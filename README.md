@@ -2,7 +2,7 @@
 
 Built using React.js
 
-You can test this project here: tbd
+You can test this project here: https://anthonyreyesf.github.io/shopify-nasa-challenge/
 
 ## Screenshot
 
